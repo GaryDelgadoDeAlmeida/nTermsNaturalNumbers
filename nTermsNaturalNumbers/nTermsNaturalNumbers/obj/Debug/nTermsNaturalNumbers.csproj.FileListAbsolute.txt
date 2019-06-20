@@ -1,0 +1,7 @@
+C:\Users\garya\Documents\Developpment\Application\C#\nTermsNaturalNumbers\nTermsNaturalNumbers\bin\Debug\nTermsNaturalNumbers.exe.config
+C:\Users\garya\Documents\Developpment\Application\C#\nTermsNaturalNumbers\nTermsNaturalNumbers\bin\Debug\nTermsNaturalNumbers.exe
+C:\Users\garya\Documents\Developpment\Application\C#\nTermsNaturalNumbers\nTermsNaturalNumbers\bin\Debug\nTermsNaturalNumbers.pdb
+C:\Users\garya\Documents\Developpment\Application\C#\nTermsNaturalNumbers\nTermsNaturalNumbers\obj\Debug\nTermsNaturalNumbers.csproj.CoreCompileInputs.cache
+C:\Users\garya\Documents\Developpment\Application\C#\nTermsNaturalNumbers\nTermsNaturalNumbers\obj\Debug\nTermsNaturalNumbers.exe
+C:\Users\garya\Documents\Developpment\Application\C#\nTermsNaturalNumbers\nTermsNaturalNumbers\obj\Debug\nTermsNaturalNumbers.pdb
+C:\Users\garya\Documents\Developpment\Application\C#\nTermsNaturalNumbers\nTermsNaturalNumbers\obj\Debug\nTermsNaturalNumbers.csprojAssemblyReference.cache
